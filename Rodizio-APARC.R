@@ -1,7 +1,9 @@
 # APLICATIVO RODIZIO APARC
 # Daniel Rodrigo de M. Magalhaes
 # Versao 1.06 
-# 31 agosto 2019
+# 17 de setemrbo de 2019
+
+## Projeto no GIT
 
 
 ## PACOTES ## 
@@ -27,7 +29,7 @@ library(readr)
 
 
 ## ENTRADA DE DADOS ##
-r = 30
+r = 60
 c = 15
 i=1
 j=1
